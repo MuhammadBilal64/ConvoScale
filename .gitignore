@@ -1,0 +1,11 @@
+build/
+*.o
+*.obj
+*.exe
+__pycache__/
+*.pyc
+
+data/**
+!data/.gitkeep
+results/**
+!results/.gitkeep
